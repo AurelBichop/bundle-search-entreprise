@@ -12,7 +12,7 @@ composer require aurelbichop/recherche-entreprises-bundle
 ### ⚙️ Configuration (optionnelle)
 
 ```yaml
-# config/packages/yoanbernabeu_recherche_entreprises.yaml
+# config/packages/aurelbichop_recherche_entreprises.yaml
 aurel_bichop_recherche_entreprises:
     timeout: 10  # Timeout en secondes (défaut: 10)
 ```
