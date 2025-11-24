@@ -1,5 +1,6 @@
 # Bundle-demo-search-entreprise
 ## Recherche Entreprises Bundle
+[![Tests](https://github.com/AurelBichop/bundle-search-entreprise/actions/workflows/tests.yml/badge.svg)](https://github.com/AurelBichop/bundle-search-entreprise/actions/workflows/tests.yml)
 
 Bundle Symfony pour l'[API Recherche d'entreprises](https://recherche-entreprises.api.gouv.fr/) du gouvernement français.
 
